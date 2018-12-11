@@ -1,3 +1,5 @@
+This is the repo to store my work for Wes Bos's Advanced React and GraphQL course.
+
 ![Advanced React & GraphQL](https://advancedreact.com/images/ARG/arg-facebook-share.png)
 
 # Advanced React & GraphQL
